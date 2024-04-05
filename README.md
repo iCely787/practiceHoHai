@@ -14,4 +14,11 @@ iv.  unmodified:  unchanged <br>
 
 add = add new and changed files in your working directiory to Git staging area <br>
 commit = it is the record of change <br>
-push = upload local repo into remote repo
+push = upload local repo into remote repo <br>
+init = used to inialize a new  git repository <br>
+        git init <br>
+        git remote add origin < - link - > <br>
+        git remote -v ( to verify remote ) <br>
+        git branch ( to check branch ) <br>
+        git branch -M main ( to rename branch ) <br>
+        git push origin main <br>
