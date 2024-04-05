@@ -1,2 +1,4 @@
 # practiceHoHai
-just a practice for github
+First github practice
+
+commit = changes that have been done!
