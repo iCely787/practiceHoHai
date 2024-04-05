@@ -10,4 +10,8 @@ There are usually 4 status in Git, they are : <br>
 i.   untracked:  new files  or changes not staged yet <br>
 ii.  modified:   tracked file with modifications but not committed yet <br>
 iii. staged:     changes which will be included in next commit. <br>
-iv.  unmodified:  unchanged
+iv.  unmodified:  unchanged <br>
+
+add = add new and changed files in your working directiory to Git staging area <br>
+commit = it is the record of change <br>
+push = upload local repo into remote repo
