@@ -22,15 +22,11 @@ init = used to inialize a new  git repository <br>
         git branch ( to check branch ) <br>
         git branch -M main ( to rename branch ) <br>
         git push origin main <br>
-<<<<<<< HEAD
-
-branch = used to create a branches for teams to work <br>
-        git branch, used to check which branch we r currently on <br>
-        git checkout <- branch name ->, used to switch between branches <br>
-        * if u want to make any changes in ur current branch then firstly save those changes  by using git add command <br>
-        git checkout -b < -branch name - >, used to create a new branch <br>
-        git branch -M branch , used to rename the branch name <br>
-=======
         git branch -d (branch name) -> to delete the branch
-        
->>>>>>> b815d130da7e4fe9524c781cfe1f3b470a44f8b4
+
+merge  = combine code from one branch to another <br>
+        note: there are two ways to merge code 
+        i.  git diff (branch name) -> to compare commits, branches, files and  more
+            git merge (branch name) -> to merge two branch
+
+        ii. Create a PR (Pull request)
