@@ -25,8 +25,8 @@ init = used to inialize a new  git repository <br>
         git branch -d (branch name) -> to delete the branch
 
 merge  = combine code from one branch to another <br>
-        note: there are two ways to merge code 
-        i.  git diff (branch name) -> to compare commits, branches, files and  more
+        note: there are two ways to merge code <br>
+        i.  git diff (branch name) -> to compare commits, branches, files and  more <br>
             git merge (branch name) -> to merge two branch
-
+<br>
         ii. Create a PR (Pull request)
