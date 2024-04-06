@@ -22,3 +22,5 @@ init = used to inialize a new  git repository <br>
         git branch ( to check branch ) <br>
         git branch -M main ( to rename branch ) <br>
         git push origin main <br>
+        git branch -d (branch name) -> to delete the branch
+        
